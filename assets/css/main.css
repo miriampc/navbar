@@ -1,0 +1,23 @@
+*{
+  font-family: helvetica;
+}
+ul{
+  background: #000;
+}
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+a{
+  color: #FFF;
+  text-decoration: none;
+  padding: 10px;
+}
+a:hover{
+  color: green;
+}
+span{
+  color: red;
+  margin: 0 100px;
+}
